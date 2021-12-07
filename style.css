@@ -88,14 +88,14 @@ section.imagem {
 }
 
 section#img01{
-    background-image:url('../imagens/images.jpg')
+    background-image:url('images.jpg')
 
     
 
 }
 
 section#img02{
-    background-image: url('../imagens/istockphoto-506436992-1024x1024.jpg');
+    background-image: url('istockphoto-506436992-1024x1024.jpg');
 
     
 }
